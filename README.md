@@ -1,6 +1,8 @@
 # Python Revision 🚀
 
-Welcome to my Python learning journey!
+Welcome to my Python Revision Repository.
+
+I am documenting my daily Python learning journey while preparing for AI Engineering and Software Development roles.
 
 ## 📚 Topics Covered
 
